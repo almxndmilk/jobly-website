@@ -2,7 +2,7 @@
 
 A modern job platform web application built with Next.js and Supabase.
 
-## Features
+## 🚀Features
 
 * User authentication
 * Job listings and browsing
@@ -10,7 +10,7 @@ A modern job platform web application built with Next.js and Supabase.
 * Database integration with Supabase
 * Fast development with Next.js
 
-## Tech Stack
+## 🛠️Tech Stack
 
 * **Frontend:** Next.js 16
 * **Language:** TypeScript
@@ -18,7 +18,7 @@ A modern job platform web application built with Next.js and Supabase.
 * **Package Manager:** pnpm
 * **Styling:** CSS / Tailwind CSS (if applicable)
 
-## Getting Started
+## ⚙️Getting Started
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ npm install -g pnpm
 
 ---
 
-## Installation
+## ⚙️Installation
 
 Clone the repository:
 
@@ -53,7 +53,7 @@ pnpm install
 
 ---
 
-## Environment Variables
+## ⚡Environment Variables
 
 Create a file named:
 
@@ -76,7 +76,7 @@ Supabase Dashboard → Project Settings → API Keys
 
 ---
 
-## Running the Development Server
+## 🌐Running the Development Server
 
 Start the app:
 
@@ -92,7 +92,7 @@ http://localhost:3000
 
 ---
 
-## Project Structure
+## 💻Project Structure
 
 ```txt
 jobly-website/
@@ -109,7 +109,7 @@ jobly-website/
 
 ---
 
-## Common Issues
+## 👨🏻‍💻Common Issues
 
 ### Port Already In Use
 
@@ -140,7 +140,7 @@ Restart the development server after updating environment variables.
 
 ---
 
-## Deployment with Vercel
+## 💡Deployment with Vercel
 
 1. Push your project to GitHub:
 
@@ -171,7 +171,7 @@ https://jobly-website.vercel.app
 
 ---
 
-## Build for Production
+## 🤖Build for Production
 
 ```bash
 pnpm build
@@ -185,7 +185,7 @@ pnpm start
 
 ---
 
-## Future Improvements
+## 🤝Future Improvements
 
 * Job application tracking
 * User dashboards
@@ -196,6 +196,6 @@ pnpm start
 
 ---
 
-## License
+## 📄License
 
 This project is for educational and development purposes.
